@@ -1,3 +1,3 @@
-# OldShotsounds
+# Old Weapon Sounds
 
-includes all old shot sounds from the guns
+Includes all old weapon sounds from the game
